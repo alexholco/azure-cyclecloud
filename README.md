@@ -38,7 +38,7 @@ Once complete, you will need to do the following in Cyclecloud:
   - Set up a scheduler
   
 Notes:
-  - Files created locally will be stored in /home/<user>/demo-cc
+  - Files created locally will be stored in /home/\<user\>/demo-cc
   - Two NSG rules are set up for the cyclecloud vm. Use your public ip address for 'allowed_ips' to limit access.
   - To remove everything (all Azure resources and local files), use the -d parameter or via point and click:
     - Delete the azure resource group: demo-cc-rg
