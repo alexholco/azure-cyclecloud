@@ -34,7 +34,7 @@ Delete all azure resources and local temp files
 ```
   
 Once complete, you will need to do the following in Cyclecloud:
-  - Add ssh key information to the cyclecloud acmin account configuration
+  - Add ssh key information to the cyclecloud admin account (hpcadmin) configuration
   - Set up a scheduler
   
 Notes:
